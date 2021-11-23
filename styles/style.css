@@ -223,15 +223,13 @@
 .table__cell_theme_dark {
   width: 200px;
   margin-top: 80px;
+  color: white;
 }
 .table__theme_dark {
   position: relative;
   z-index: 1;
 }
-/* пример элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  color: white;
-}
+
 .kaufman__triangle {
   width: 877px;
   height: 877px;
