@@ -283,7 +283,6 @@
 
 .footer__column-link {
   margin: 0;
-  display: flex;
   text-decoration: none;
   color: white;
   line-height: 30px;
@@ -306,7 +305,6 @@
 .footer__column-links {
   list-style-type: none;
   margin-block: 0;
-  list-style-type: none;
   padding: 0;
 }
 .footer__social-icon {
