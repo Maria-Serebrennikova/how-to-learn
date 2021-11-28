@@ -164,7 +164,7 @@
   margin: 0;
 }
 
-.table__text_paragraph:not(:last-child) {
+.table__text:not(:last-child) {
   margin-bottom: 20px;
 }
 
