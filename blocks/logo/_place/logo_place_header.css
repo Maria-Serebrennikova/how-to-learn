@@ -1,5 +1,5 @@
 .logo_place_header {
-    background-image: url("/blocks/logo/logo_place_header.svg");
+    background-image: url("../logo_place_header.svg");
     height: 32px;
     position: absolute;
     top: 30px;

@@ -8,6 +8,7 @@
     color: #2f80ed;
     top: 50%;
     transition: opacity 0.5s ease;
+    transform: translateY(-100%);
   }
   
   .feynman__link:hover{
